@@ -3,9 +3,9 @@ using NUnit.Framework;
 
 namespace warninglist;
 
-public class Tests
+public class Test
 {
-	public string Empty {get;set;}
+	public string Empty { get; set; }
 
 	[SetUp]
 	public void Setup()
